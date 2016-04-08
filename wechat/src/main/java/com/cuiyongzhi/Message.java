@@ -1,5 +1,11 @@
 package com.cuiyongzhi;
 
+/**
+ * ClassName: Message
+ * @Description: 用于消息回复
+ * @author dapengniao
+ * @date 2016年4月8日 上午11:44:11
+ */
 public class Message {
 	private int code;
 	private String msg;
